@@ -8,8 +8,10 @@ package proyectofinal1.pkg3;
  *
  * @author charliesalas
  */
-public class Catalogos {
+public class salasDeCine {
     
+    String lecture;
+    int iDEmployee;
     
     
 }
